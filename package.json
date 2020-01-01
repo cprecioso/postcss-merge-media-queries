@@ -16,7 +16,10 @@
   },
   "license": "MIT",
   "author": "Carlos Precioso <kalprestito@gmail.com>",
-  "main": "src/index.js",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -31,7 +34,6 @@
     "supports-color": "^6.1.0"
   },
   "devDependencies": {
-    "esm": "^3.2.25",
     "postcss": "^7.0.26"
   },
   "peerDependencies": {
