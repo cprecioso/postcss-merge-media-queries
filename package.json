@@ -1,0 +1,40 @@
+{
+  "name": "postcss-merge-media-queries",
+  "version": "1.0.0",
+  "description": "Merge media queries",
+  "keywords": [
+    "cssnano",
+    "postcss"
+  ],
+  "homepage": "https://github.com/cprecioso/postcss-merge-media-queries#readme",
+  "bugs": {
+    "url": "https://github.com/cprecioso/postcss-merge-media-queries/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprecioso/postcss-merge-media-queries.git"
+  },
+  "license": "MIT",
+  "author": "Carlos Precioso <kalprestito@gmail.com>",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ansi-styles": "^3.2.1",
+    "chalk": "^2.4.2",
+    "color-convert": "^1.9.3",
+    "color-name": "^1.1.3",
+    "escape-string-regexp": "^1.0.5",
+    "has-flag": "^3.0.0",
+    "source-map": "^0.6.1",
+    "supports-color": "^6.1.0"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "postcss": "^7.0.26"
+  },
+  "peerDependencies": {
+    "postcss": "^7.0.26"
+  }
+}
