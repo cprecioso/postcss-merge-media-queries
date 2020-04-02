@@ -31,7 +31,7 @@
     "escape-string-regexp": "^1.0.5",
     "has-flag": "^3.0.0",
     "source-map": "^0.6.1",
-    "supports-color": "^6.1.0"
+    "supports-color": "^7.1.0"
   },
   "devDependencies": {
     "postcss": "^7.0.26"
